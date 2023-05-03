@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803705803330",
+    "project_id": "agrikart1-83440",
+    "storage_bucket": "agrikart1-83440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803705803330:android:e346cb1cf4aaad47b013db",
+        "android_client_info": {
+          "package_name": "com.example.agrikart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803705803330-01j5okggqt85ss0i5lhar63s9qmhbq7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agrikart1",
+            "certificate_hash": "877b14b0aaff659bfa8ab5520654a2881ef1adbd"
+          }
+        },
+        {
+          "client_id": "803705803330-81hh0ngqodmjnb8krgodqj13191k0bqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEE1gmVDF2sY_phwJUNWT9L87Msf_XOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803705803330-81hh0ngqodmjnb8krgodqj13191k0bqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

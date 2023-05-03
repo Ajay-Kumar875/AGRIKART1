@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AGRIKART1</string>
+    <string-array name="States">
+        <item>   State*</item>
+        <item>AndhraPradesh</item>
+        <item>Telangana</item>
+        <item>Punjab</item>
+        <item>Bihar</item>
+        <item>Delhi</item>
+        <item>Arunachal Pradesh</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
